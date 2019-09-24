@@ -11,3 +11,9 @@ You should NOT try to redefine any of the above variables.
 let newID;
 
 let ageIsValid;
+
+let randomNumber;
+
+let randomInteger;
+
+let randomID;
